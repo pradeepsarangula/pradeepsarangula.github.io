@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to My first static site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Welcome to My first static site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 13:52:41 -0700</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another Post</title>
+      <link>https://example.org/post/another-post/</link>
+      <pubDate>Fri, 12 Feb 2021 13:52:41 -0700</pubDate>
+      
+      <guid>https://example.org/post/another-post/</guid>
+      <description>Another fantastic post on the blog. Want to read more about me?</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Fri, 12 Feb 2021 13:51:55 -0700</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I&amp;rsquo;m a blogger and I love Hugo.
+More about me Some other stuff.</description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://example.org/post/hello-world/</link>
+      <pubDate>Fri, 12 Feb 2021 12:28:01 -0700</pubDate>
+      
+      <guid>https://example.org/post/hello-world/</guid>
+      <description>Welcome to my awesome blog!
+There&amp;rsquo;s not much here yet, but stay tuned.</description>
+    </item>
+    
+    <item>
+      <title>How to setup NGINX</title>
+      <link>https://example.org/post/how-to-setup-nginx/</link>
+      <pubDate>Fri, 12 Feb 2021 13:39:46 +0200</pubDate>
+      
+      <guid>https://example.org/post/how-to-setup-nginx/</guid>
+      <description>Step 1. Install nginx To install nginx/Windows, download the latest mainline version distribution (1.19.6), since the mainline branch of nginx contains all known fixes. Then unpack the distribution, go to the nginx-1.19.6 directory, and run nginx.
+Here is an example for the drive C: root directory:
+cd c:\unzip nginx-1.19.6.zipcd nginx-1.19.6start nginx Step 2. Run Run the tasklist command-line utility to see nginx processes:
+C:\nginx-1.19.6&amp;gt;tasklist /fi &amp;quot;imagename eq nginx.</description>
+    </item>
+    
+    <item>
+      <title>Install Docker Desktop on Windows</title>
+      <link>https://example.org/post/how-to-setup-docker/</link>
+      <pubDate>Fri, 12 Feb 2021 13:07:31 +0200</pubDate>
+      
+      <guid>https://example.org/post/how-to-setup-docker/</guid>
+      <description>Download   Download the Docker Desktop Installer from Docker Hub.
+ Click on Get Docker Desktop for Windows   Install  Double-click Docker for Windows Installer to run the installer.
+When the installation finishes, Docker starts automatically. The whale [image_tag] in the notification area indicates that Docker is running, and accessible from a terminal.
+  Run  Open a command-line terminal like PowerShell, and try out some Docker commands!</description>
+    </item>
+    
+  </channel>
+</rss>
